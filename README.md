@@ -30,9 +30,9 @@ O surgimento do sistema operacional, surgiu justamente para __intermediar__ o di
 
 #### Introdução
 
-### Principais Versões Windows:
+#### Principais Versões Windows:
 
-#### MS-DOS (1981)
+##### MS-DOS (1981)
 
 Antes dos sistemas operacionais modernos, computadores antigos funcionavam com sistemas muito rudimentares e primitivos. Junto com a criação do ___MS-DOS___ em __1981__, pela empresa _Microsoft_ de Bill Gates, houve uma grande adoção por este sistema operacional, ele permitia os usuários, por meio de uma linha de comando, interagissem com o computador __digitando comandos__.
 
@@ -42,7 +42,7 @@ Seu design simples, porém eficiente, além da sua grande funcionalidade, trouxe
 - Ascensão da IBM (_International Business Machines Corporation_) como fabricantes de _PCs_;
 - Permissão de um ampla gama de softwares a ser desenvolvida e executada.
 
-#### Windows 3.1 e Windows 95
+##### Windows 3.1 e Windows 95
 
 Outra grande novidade que mudou com a forma que interagimos com os computadores, foi na década de 1990, especificamente em __1992__, no lançamento do ___Windows 3.1___, um avanço significativo, comparando-se com o _MS-DOS_.
 
@@ -50,44 +50,44 @@ Nesse lançamento, foi introduzido a Interface Grádica do Usuário (_GUI_), que
 
 Após 3 anos do seu lançamento, _Microsoft_ lança Windows 95, trazendo uma interface mais sofisticada, suporte aprimorado e a introdução do ___Menu Iniciar___, o que se tornou um ícone dos sistemas operacionais Windows.
 
-#### Windows XP
+##### Windows XP
 
 No lançamento do ___Windows XP___, lançado em __2001__, conseguiu ser um dos sistemas operacionais mais bem sucedidos da _Microsoft_, combinando estabilidade com uma interface amigável e se tornou extremamente popular e duradouro, sendo amplamente adotado.
 
-#### Windows 7
+##### Windows 7
 
 Em __2009__, o ___Windows 7___ trouxe uma interface mais refinada, melhor desempenho e uma série de recursos novos, como o _Snap_ e a Biblioteca, que facilitavam a organização e o acesso aos arquivos.
 
-#### Windows 8 e Windows 10 (2012 e 2015)
+##### Windows 8 e Windows 10 (2012 e 2015)
 
 Em __2012__, no ___Windows 8___, se marca uma mudança radical em relação a interfacer _Modern UI_, voltada para dispositivos _TouchScreen_. Apesar de inovações como a ___Loja Windows___ e integração da ___Windows Store___. Usuários _Windows_ da época ficaram insatisfeitos com essa mudança.
 
 E para corrigir essa bobeira, jogaram no mercado o ___Windows 10___ em 2015, o sistema trouxe de volta o _Menu Iniciar_ e integrou o melhor dos dois mundos: interface amigável e _touchscreen_. Além de um conceito de "_Windows_ como um Serviço", passando a ter __atualizações contínuas__, focando 100% na experiência do usuário.
 
-#### Windows 11 (2021)
+##### Windows 11 (2021)
 
 O ___Windows 11___, lançado em __2021__, representa a próxima fase na evolução dos sistemas operacionais da Microsoft. Com uma interface mais moderna, novas funcionalidades e melhorias na segurança, o _Windows 11_ busca oferecer uma experiência mais fluida e integrada. Ele introduziu uma nova barra de tarefas centralizada, widgets e melhorias no suporte a múltiplos monitores e virtualização.
 
-### Arquitetura Windows:
+#### Arquitetura Windows:
 
-#### Modo Usuário (User Mode):
+##### Modo Usuário (User Mode):
 
 Essa parte é onde os programas comuns (aplicativos, navegadores, editores de texto) rodam. Aqui, os processos têm acesso restrito ao _hardware_ para evitar falhas graves no sistema.
 
-#### Modo Kernel ou Modo Núcleo (Kernel Mode ou Core Mode):
+##### Modo Kernel ou Modo Núcleo (Kernel Mode ou Core Mode):
 
 O ___Kernel/Núcleo___ é o coração do sistema operacional e tem acesso total ao _hardware_. Ele gerencia processos, memória, _drivers_ e segurança.
 
-#### Componentes Importantes:
+##### Componentes Importantes:
 
 - _NT Kernel_ (_Windows NT_) – A base do _Windows_ moderno, usada desde o _Windows 2000_, que traz mais segurança e estabilidade.
 - _Registry_ (Registro do _Windows_) – Banco de dados onde o _Windows_ guarda configurações do sistema e de programas.
 - Sistema de Arquivos _NTFS_ – O principal sistema de arquivos do _Windows_, conhecido por sua segurança e suporte a grandes volumes de dados.
 - Gerenciador de Processos (_Task Manager_) – Ferramenta usada para monitorar e controlar os programas e serviços em execução.
 
-### Comandos Windows:
+#### Comandos Windows:
 
-#### 10 comandos Windows:
+##### 10 comandos Windows:
 
 1. `ipconfig` --> Mostra informações da rede, como _IP_, máscara de sub-rede e gateway padrão.
 2. `ping` --> Testa a conectividade com um site ou outro dispositivo na rede.
