@@ -26,6 +26,10 @@ O surgimento do sistema operacional, surgiu justamente para __intermediar__ o di
 
 ### Evolução dos Sistemas Operacionais:
 
+#### Introdução
+
+Inicialmente, o computador, que mais pra frente seria utilizado os sistemas operacionais, foi introduzido para substuir o esforço humano em relação aos cálculos.
+
 #### Década de 1950 e 60:
 Os primeiros computadores __não possuíam sistemas operacionais__, os programas eram inseridos manualmente. Nos anos __1950__, surgiram os primeiros _SOs_ básicos para mainframes, como o _GM-NAA I/O_, desenvolvido pela _IBM_.
 
