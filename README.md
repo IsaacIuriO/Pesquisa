@@ -51,6 +51,8 @@ Atualmente, os sistemas operacionais estão presentes não apenas em computadore
 
 #### Introdução
 
+O Windows é um sistema operacional desenvolvido pela Microsoft que alcançou grande popularidade e dominou o mercado para computadores pessoais ao longo de sua história. Desde 1985, várias versões do Windows foram lançadas — com maior ou menor sucesso — e incluem famílias e subfamílias de sistemas que atendem não apenas consumidores, mas também diversos setores da indústria de computação.
+
 #### Principais Versões Windows:
 
 ##### MS-DOS (1981)
