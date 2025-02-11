@@ -26,6 +26,27 @@ O surgimento do sistema operacional, surgiu justamente para __intermediar__ o di
 
 ### Evolução dos Sistemas Operacionais:
 
+#### Década de 1950 e 60:
+Os primeiros computadores __não possuíam sistemas operacionais__, os programas eram inseridos manualmente. Nos anos __1950__, surgiram os primeiros _SOs_ básicos para mainframes, como o _GM-NAA I/O_, desenvolvido pela _IBM_.
+
+#### Década de 70:
+
+O ___UNIX___ foi criado em 1969 por Ken Thompson e Dennis Ritchie, tornando-se um modelo para os futuros sistemas operacionais. Nessa época, a __Xerox__ também desenvolveu conceitos inovadores, como a interface gráfica e o mouse.
+
+#### Década de 80:
+
+O ___MS-DOS___ foi lançado em 1981 pela _Microsoft_, sendo um sistema baseado em linha de comando que se popularizou amplamente. Em 1984, a _Apple_ apresentou o Macintosh, que revolucionou o mercado com sua interface gráfica amigável. Em 1985, a _Microsoft_ lançou o _Windows_ 1.0, ainda dependente do _MS-DOS_.
+
+#### Década de 90:
+
+O ___Windows 95___ trouxe inovações como o menu Iniciar e a multitarefa, consolidando a _Microsoft_ no mercado. Em 1991, Linus Torvalds criou o _Linux_, um sistema operacional de __código aberto__ que se tornou popular entre desenvolvedores e servidores. No final da década, a _Apple_ lançou o _Mac OS X_, baseado no _UNIX_, trazendo maior estabilidade e desempenho.
+
+#### Anos 2000:
+
+O ___Windows XP___, lançado em 2001, tornou-se um dos sistemas operacionais mais populares da história. Com a ascensão dos dispositivos móveis, surgiram o ___iOS___ (2007) e o ___Android___ (2008), mudando a forma como interagimos com a tecnologia. Em 2015, a _Microsoft_ apresentou o _Windows_ 10, adotando um modelo de atualizações contínuas. O _Windows_ 11, lançado em 2021, trouxe mudanças visuais significativas e integração com aplicativos _Android_.
+
+Atualmente, os sistemas operacionais estão presentes não apenas em computadores, mas também em _smartphones_, _smart TVs_ e até mesmo na nuvem, demonstrando sua evolução e adaptação às necessidades modernas.
+
 ### Windows
 
 #### Introdução
@@ -129,6 +150,37 @@ ___
 
 ## Curiosidades:
 
+1. O __primeiro__ nome do _Windows_ __não__ era _Windows_:
+Antes de ser chamado de "_Windows_", a _Microsoft_ queria nomeá-lo de "___Interface Manager___", mas mudou de ideia porque "_Windows_" soava __mais comercial__.
+
+2. O __som de inicialização__ do _Windows_ 95 foi criado por um compositor famoso:
+O icônico som de inicialização do _Windows_ 95 foi composto por __Brian Eno__, um músico renomado que trabalhou com David Bowie e U2.
+
+3. O _Windows XP_ tem um papel de parede real:
+O famoso fundo de tela "___Bliss___", com a colina verde e o céu azul, é uma foto real tirada na __Califórnia__ por Charles O’Rear em 1996.
+
+4. O _Windows_ 10 __não__ era para se __chamar__ _Windows_ 10:
+A _Microsoft_ __pulou__ o _Windows_ 9 porque muitos programas antigos verificavam a versão do sistema começando com "_Windows_ 9" (_Windows_ 95/98), o que poderia gerar _bugs_.
+
+5. O _Windows_ 1.0 era tão __limitado__ que nem tinha janela sobreposta:
+No _Windows_ 1.0 (1985), as janelas __não podiam se sobrepor__! Tudo ficava lado a lado, como se fossem blocos fixos.
+
+6. O "_Ctrl+Alt+Del_" foi um __erro__ que virou __solução__:
+Essa combinação foi criada pelo engenheiro David Bradley para __facilitar a reinicialização__ durante os testes. Mas Bill Gates admitiu que gostaria que fosse só um botão.
+
+7. _Windows_ 98 __travou__ ao vivo na apresentação oficial:
+Durante a apresentação do _Windows_ 98, Bill Gates estava demonstrando um scanner quando o sistema __travou na frente de todo mundo__.
+
+8. O _Windows_ já teve um __jogo secreto__ escondido:
+O _Windows_ 3.0 tinha um jogo de __xadrez__ escondido, chamado "_Chess Titans_". Só era acessível por comandos específicos.
+
+9. O _Windows XP_ ainda é usado em lugares críticos:
+Mesmo depois do fim do suporte, o _Windows XP_ ainda é usado em sistemas de hospitais, caixas eletrônicos e até em alguns __equipamentos da__ ___NASA___.
+
+10. O Windows 10 foi a última versão do Windows (até não ser mais)
+A _Microsoft_ disse que o _Windows_ 10 seria a "última versão", pois eles apenas o atualizariam continuamente... até lançarem o ___Windows___ __11__.
+
 ## Fontes:
+- [31 Fatos Sobre o Windows - Facts.net](https://pt.facts.net/tecnologia-e-ciencias/computacao/31-fatos-sobre-windows/?utm_source=chatgpt.com)
 - [Tutorial README.md - Drive](https://drive.google.com/file/d/1M9UfWY8D3gFnGc_wqWd0dV5GLvIVlnKP/view?usp=classroom_web&authuser=0)
 - [Sistemas Operacionais: Conceito e Estrutura - Alura](https://www.alura.com.br/artigos/sistemas-operacionais-conceito-estrutura/)
